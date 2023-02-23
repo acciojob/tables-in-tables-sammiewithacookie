@@ -1,2 +1,21 @@
+table,th,tr,td{
+	border: 1px solid black;
+}
 
+.Data1{
+	width:330px;
+	height:200px;
+}
+
+.Row1{
+	text-align:center
+}
+
+.tab1{
+	width:330px;
+}
+
+.Data2{
+	height:100px;
+}
 /* Your CSS Code here. */
